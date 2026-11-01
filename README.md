@@ -21,8 +21,8 @@ The notebook expects `amazon_reviews_lab.csv` in the same folder, with at least 
 ## Setup
 
 ```bash
-git clone https://github.com/ainohamjeptoo-cloud/customer-reviews-analysis.git
-cd customer-reviews-analysis
+git clone https://github.com/ainohamjeptoo-cloud/customer-reviews-analysis-lab.git
+cd customer-reviews-analysis-lab
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
